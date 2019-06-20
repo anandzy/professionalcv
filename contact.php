@@ -24,7 +24,7 @@ if (empty($_POST["message"])) {
 }
 
 //Add your email here
-$EmailTo = "anandbhupathiraz@gmail.com";
+$EmailTo = "anandbhupathiraju@icloud.com";
 $Subject = "Contact back";
 
 // prepare email body text
